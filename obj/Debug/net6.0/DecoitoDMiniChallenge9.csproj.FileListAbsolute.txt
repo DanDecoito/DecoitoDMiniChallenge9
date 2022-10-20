@@ -13,3 +13,18 @@ C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DecoitoDMiniChalle
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DecoitoDMiniChallenge9\obj\Debug\net6.0\DecoitoDMiniChallenge9.pdb
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DecoitoDMiniChallenge9\obj\Debug\net6.0\DecoitoDMiniChallenge9.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DecoitoDMiniChallenge9\obj\Debug\net6.0\ref\DecoitoDMiniChallenge9.dll
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\bin\Debug\net6.0\DecoitoDMiniChallenge9.exe
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\bin\Debug\net6.0\DecoitoDMiniChallenge9.deps.json
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\bin\Debug\net6.0\DecoitoDMiniChallenge9.runtimeconfig.json
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\bin\Debug\net6.0\DecoitoDMiniChallenge9.dll
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\bin\Debug\net6.0\DecoitoDMiniChallenge9.pdb
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.csproj.AssemblyReference.cache
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.AssemblyInfoInputs.cache
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.AssemblyInfo.cs
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.dll
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\refint\DecoitoDMiniChallenge9.dll
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.pdb
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\DecoitoDMiniChallenge9.genruntimeconfig.cache
+C:\Users\rsgoo\DecoitoDRestaurantPicker_9\obj\Debug\net6.0\ref\DecoitoDMiniChallenge9.dll
